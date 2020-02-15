@@ -19,6 +19,7 @@
 ```xml
 XML是一種標記式語言。標記(電腦所能理解的資訊符號)
 通過此種標記，電腦之間可以處理包含各種資訊的文章，像是HTML等
+<img src="" width="128" height="128"/>
 ```
 
 <img src="https://github.com/gigilin7/note/blob/master/picture/1.png" width="128" height="128"/>
