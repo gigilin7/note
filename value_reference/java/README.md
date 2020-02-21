@@ -1,3 +1,4 @@
+*從輸出結果的 **注意** 中可看出不同*
 # Call by value
 ```java
 class Value
@@ -23,7 +24,7 @@ class Value
 原始：1
 加1前：1
 加1後：2
-現在：1
+現在：1   <---注意
 ```
 
 # Call by reference
@@ -53,5 +54,5 @@ class Reference {
 原始：1
 加1前：1
 加1後：2
-現在：2
+現在：2   <---注意
 ```
