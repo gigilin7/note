@@ -1,5 +1,5 @@
 # Call by value
-記憶體是分開儲存的，不會互相干擾
+```java
 class Value
 {
 	public static void main ( String[] args ) 
@@ -17,15 +17,17 @@ class Value
       		System.out.println ("加1後："+n);
 	}
 }
-
+```
+```
 輸出結果：
 原始：1
 加1前：1
 加1後：2
 現在：1
+```
 
 # Call by reference
-要先new出一個物件，而該物件就是一個reference
+```java
 class Number {
    int x;
 }
@@ -45,8 +47,11 @@ class Reference {
       System.out.println("加1後："+n.x);
    }
 }
+```
+```
 輸出結果：
 原始：1
 加1前：1
 加1後：2
 現在：2
+```
