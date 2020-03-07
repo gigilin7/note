@@ -1,5 +1,7 @@
 # 使用命令列介面(cmd)編譯程式
-以下是C、C++、Java的編譯方式
+以下是C、C++、Java、Python的編譯方式
+
+( 要記得先新增環境變數的PATH喔！ )
 
 ## C
 + `gcc 檔名.c`
@@ -27,6 +29,11 @@
 + `javac 檔名.java`
 
 + `java 檔名`
+
+## Python
++ `activate base`
+
++ `python 檔名.py`
 
 # 補充
 將c++的版本設為c++11：
